@@ -5,6 +5,14 @@
   text-align: center;
 }
 
+.card {
+  background-color: #f9f9f9;
+  border-radius: 0.5em;
+  box-shadow: 0 0 1em #00000022;
+  margin: 1em;
+  padding: 2em;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
